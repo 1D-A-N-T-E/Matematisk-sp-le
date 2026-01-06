@@ -1,0 +1,327 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "mape1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "1.tsx": {
+            "scaleInDock": 1
+        },
+        "2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "5.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "77.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "777.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "787.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FieldsTile_01.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FieldsTileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "FieldsTilesetTest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "S_Special.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tree1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "akmens.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "akmens1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "akmens2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "augi.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dekors.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dekors2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "finalEna.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "finish.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "istaSet2.tsx": {
+            "scaleInDock": 1
+        },
+        "istaSeta.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "karogsss.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "karoogs.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "koks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kust.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "lampas.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maja.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "majas2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "majas3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "mape1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 25,
+            "viewCenter": {
+                "x": 1140,
+                "y": -664
+            }
+        },
+        "mape1.tmx#Tree11": {
+            "scaleInDock": 1
+        },
+        "mape1.tmx#tr": {
+            "scaleInDock": 1
+        },
+        "seta.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "seta2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/1.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/5.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/6.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/FieldsTileset.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/FieldsTilesetTest.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/Tree1.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/akmens.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/akmens1.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/akmens2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/dekors.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/dekors2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/finalEna.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/finish.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/karogsss.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/kust.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/lampas.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/maja.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/majas2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/majas3.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/mape1.tmx": {
+            "scale": 0.8614322916666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 959.4485927627802,
+                "y": 361.02663321140307
+            }
+        },
+        "tailsets/seta.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/seta2.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/telts.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/tent.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/zale.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/zime.tsx": {
+            "scaleInDock": 1
+        },
+        "tailsets/zime1.tsx": {
+            "scaleInDock": 1
+        },
+        "telts.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tent.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zale.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zime.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "zime1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 60,
+    "last.externalTilesetPath": "F:/PYT-spele",
+    "last.imagePath": "F:/craftpix-net-665131-free-fields-tileset-pixel-art-for-tower-defense/2 Objects/7 Decor",
+    "map.height": 33,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "mape1.tmx",
+        "2.tsx",
+        "5.tsx",
+        "6.tsx",
+        "77.tsx",
+        "777.tsx",
+        "787.tsx",
+        "akmens1.tsx",
+        "akmens2.tsx",
+        "akmens.tsx",
+        "bb.tsx",
+        "dekors.tsx",
+        "dekors2.tsx",
+        "FieldsTile_01.tsx",
+        "FieldsTileset.tsx",
+        "finalEna.tsx",
+        "FieldsTilesetTest.tsx",
+        "karogsss.tsx",
+        "istaSeta.tsx",
+        "zime1.tsx",
+        "zime.tsx",
+        "zale.tsx",
+        "Tree1.tsx",
+        "tent.tsx",
+        "telts.tsx",
+        "seta.tsx",
+        "majas3.tsx",
+        "majas2.tsx",
+        "lampas.tsx",
+        "kust.tsx"
+    ],
+    "project": "Mape.tiled-project",
+    "recentFiles": [
+        "kust.tsx",
+        "lampas.tsx",
+        "majas2.tsx",
+        "majas3.tsx",
+        "seta.tsx",
+        "telts.tsx",
+        "tent.tsx",
+        "Tree1.tsx",
+        "zale.tsx",
+        "zime.tsx",
+        "zime1.tsx",
+        "istaSeta.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 50
+    }
+}
