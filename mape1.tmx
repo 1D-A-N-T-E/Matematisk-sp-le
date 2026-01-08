@@ -253,7 +253,7 @@
   <properties>
    <property name="Type" value="player"/>
   </properties>
-  <object id="17" name="player_start" x="256" y="1024">
+  <object id="17" name="player_start" x="256" y="992">
    <point/>
   </object>
  </objectgroup>
